@@ -1,6 +1,6 @@
 # 🌐 Global Markets Terminal
 
-A real-time financial intelligence web app with an interactive rotating world map. Explore stock markets and financial news from 20 major countries around the world.
+A financialve  nancialal intelligence web app with an interactive rotating world map. Explore stock markets and financial news from 20 major countries around the world.
 
 ---
 
